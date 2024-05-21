@@ -3,7 +3,7 @@
 ## Team 👥
 
 - [Jaskaran Ram](https://github.com/JaskaranRam)
-- [Davide Salonico](https://github.com/DavideSalonico)
+- [Lorenzo Reitani](https://github.com/LorenzoReitani)
 
 ## Scopo del Progetto 
 
